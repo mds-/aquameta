@@ -37,7 +37,7 @@ Aquameta contains seven core PostgreSQL extensions, which together make up the w
 
 Installation
 ------------
-Aquameta is most easily installed on a Ubuntu 18 or Debian 9 instance; its installer manages dependencies by as `apt` packages.
+Aquameta is most easily installed on a Ubuntu 18 or Debian 9/10 instance; its installer manages dependencies by as `apt` packages.
 
 To install, setup a clean Ubuntu 18 or Debian 9 instance.  You can run on bare metal, or using a virtual machine such as [VirtualBox](https://linuxhint.com/install_ubuntu_18-04_virtualbox/) on Mac OSX and Windows, or [KVM](https://linuxconfig.org/install-and-set-up-kvm-on-ubuntu-18-04-bionic-beaver-linux) on Linux.
 
